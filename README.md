@@ -35,4 +35,5 @@ The reminder migrations enable `pg_cron`, schedule its database-side processor o
 
 - `npm run dev` — local development server.
 - `npm run build` — strict TypeScript check and production build.
+- `npm test` — run the CSV export unit tests.
 - `npm run preview` — serve the production build locally.
